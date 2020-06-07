@@ -1,0 +1,53 @@
+.body {
+  background: white;
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+}
+.logo-first {
+  color: #2196f3;
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+}
+.logo-second {
+  color: #000000;
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+}
+.mail {
+  color: #2196f3;
+}
+.blue-button {
+  background-color: #2196f3;
+  color: #ffffff;
+  list-style-type: none;
+}
+.all-button:hover,
+.all-button:focus {
+  color: #188ce8;
+  background: #f5f4fa;
+}
+.list {
+  list-style: none;
+}
+.name-project {
+  color: #757575;
+}
+.list-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+.discription {
+  color: #757575;
+}
+.social-links:hover,
+.social-links:focus {
+  color: #188ce8;
+}
