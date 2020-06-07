@@ -1,3 +1,11 @@
+:root {
+  --primary-text-color: #000000;
+  --button-color: #2196f3;
+  --discription-text-color: #757575;
+  --body-background-color: white;
+  --hover-focus-color: #188ce8;
+}
+
 .body {
   background: white;
   font-family: "Roboto", sans-serif;
